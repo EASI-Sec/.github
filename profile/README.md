@@ -32,7 +32,7 @@ Use this space to list resources you find helpful and would like to give credit 
 ### Red Team
 * [Red Team Recruiting](https://choosealicense.com)
 * #### Hacking Demo
- * [Token Impersonation](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+  * [Token Impersonation](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 
 ### Blue Team
 * [Choose an Open Source License](https://choosealicense.com)
