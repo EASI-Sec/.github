@@ -30,13 +30,12 @@
 A list of internal security projects
 
 ### Red Team
-* [Red Team Recruiting](https://choosealicense.com)
+* [Red Team Recruiting](https://github.com/EASI-Sec/SecuRED)
 * #### Hacking Demo
-  * [Token Impersonation](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+  * [Token Impersonation](https://github.com/EASI-Sec/Token-Impersonation)
 
 ### Blue Team
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* 
 
 <p align="right">(<a href="#">back to top</a>)</p>
 
@@ -50,22 +49,21 @@ Links, repositories and tools regarding Red Teaming and pentesting
 
 #### Evasion
 * [Offensive VBA](https://github.com/EASI-Sec/OffensiveVBA)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* 
+* [Evasion in C#](https://github.com/EASI-Sec/Evasion-in-Cs)
+
 #### Active DIrectory
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Vulnerable AD](https://github.com/EASI-Sec/vulnerable-AD)
 
 ### Web Application
 
 #### Wordlists
-* [SecLists](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [SecLists](https://github.com/EASI-Sec/SecLists)
+* [PayloadsAllTheThings](https://github.com/EASI-Sec/PayloadsAllTheThings)
 
 ### Physical
-* [Proxmark3](https://choosealicense.com)
-* [OMG cable firmware](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [OMG cable payloads](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Proxmark3](https://github.com/EASI-Sec/proxmark3)
+* [OMG cable firmware](https://github.com/EASI-Sec/O.MG_Cable-Firmware)
+* [OMG cable payloads](#)
 
 
 <p align="right">(<a href="#">back to top</a>)</p>
