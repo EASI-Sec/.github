@@ -33,6 +33,8 @@ A list of internal security projects
 * [Red Team Recruiting](https://github.com/EASI-Sec/SecuRED)
 * #### Hacking Demo
   * [Token Impersonation](https://github.com/EASI-Sec/Token-Impersonation)
+  * [Evasion in C#](https://github.com/EASI-Sec/Evasion-in-Cs)
+
 
 ### Blue Team
 * 
@@ -49,7 +51,7 @@ Links, repositories and tools regarding Red Teaming and pentesting
 
 #### Evasion
 * [Offensive VBA](https://github.com/EASI-Sec/OffensiveVBA)
-* [Evasion in C#](https://github.com/EASI-Sec/Evasion-in-Cs)
+* [Reflection in C#](https://github.com/EASI-Sec/Reflection_in_C-)
 
 #### Active DIrectory
 * [Vulnerable AD](https://github.com/EASI-Sec/vulnerable-AD)
