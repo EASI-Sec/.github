@@ -34,7 +34,7 @@
   <h3 align="center">Easi Security Projects & Resources</h3>
 
   <p align="center">
-    Demonstrating the dangers of logging in as administrator
+    Knowledge base for Red and Blue projects and resources
     <br />
     <a href="https://easi.net"><strong>Explore the docs »</strong></a>
     <br />
