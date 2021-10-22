@@ -82,7 +82,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- CONTACT -->
 ## Contact
 
-Mickey De Baets - MBAE - [@MickeyDB](https://github.com/MickeyDB) - m.debaets@easi.net
+Mickey De Baets - MBAE - [@MickeyDB](https://github.com/MickeyDB) - m.debaets@easi.net  
 Thomas Hayen - THAY - [@sh4rksEasi](https://github.com/sh4rksEasi) - t.hayen@easi.net
 
 <!--
