@@ -144,6 +144,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- Blue TEAM RESOURCES -->
 ## Blue Team Resources
+* [pwnSpoof](https://github.com/EASI-Sec/pwnspoof)
+
+<p align="right">(<a href="#">back to top</a>)</p>
+
 
 
 <!-- CONTACT -->
