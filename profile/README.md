@@ -142,6 +142,10 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right">(<a href="#">back to top</a>)</p>
 
 
+<!-- Blue TEAM RESOURCES -->
+## Blue Team Resources
+
+
 <!-- CONTACT -->
 ## Contact
 
