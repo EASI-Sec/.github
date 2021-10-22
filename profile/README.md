@@ -95,7 +95,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 
 <!-- INTERNAL PROJECTS -->
@@ -111,7 +111,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 
 <!-- RED TEAM RESOURCES -->
@@ -122,7 +122,7 @@ Use this space to list resources you find helpful and would like to give credit 
 ### Infrastructure
 
 #### Evasion
-* [Choose an Open Source License](https://choosealicense.com)
+* [Offensive VBA](https://github.com/EASI-Sec/OffensiveVBA)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * 
 #### Active DIrectory
@@ -132,14 +132,14 @@ Use this space to list resources you find helpful and would like to give credit 
 ### Web Application
 
 #### Wordlists
-* [Choose an Open Source License](https://choosealicense.com)
+* [SecLists](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 
 ### Physical
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Proxmark3](https://choosealicense.com)
+* [OMG cable](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -152,4 +152,4 @@ Thomas Hayen - THAY - [@sh4rksEasi](https://github.com/sh4rksEasi) - t.hayen@eas
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 -->
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
