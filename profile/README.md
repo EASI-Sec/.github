@@ -56,8 +56,9 @@
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 ### Red Team
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Red Team Recruiting](https://choosealicense.com)
+#### Hacking Demo
+* [Token Impersonation](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 
 ### Blue Team
 * [Choose an Open Source License](https://choosealicense.com)
@@ -89,7 +90,9 @@ Use this space to list resources you find helpful and would like to give credit 
 
 ### Physical
 * [Proxmark3](https://choosealicense.com)
-* [OMG cable](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [OMG cable firmware](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [OMG cable payloads](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+
 
 <p align="right">(<a href="#">back to top</a>)</p>
 
