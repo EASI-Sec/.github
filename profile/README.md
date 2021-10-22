@@ -36,7 +36,7 @@
   <p align="center">
     Knowledge base for Red and Blue projects and resources
     <br />
-    <a href="https://easi.net"><strong>Explore the docs »</strong></a>
+    <a href="https://easi.net"><strong>To the website »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">Internal Projects</a>
