@@ -28,7 +28,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/EASI-Sec/.github/main/profile/easi-logo.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/EASI-Sec/.github/main/profile/easi-logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Easi Security Projects & Resources</h3>
