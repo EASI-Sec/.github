@@ -51,7 +51,7 @@ Links, repositories and tools regarding Red Teaming and pentesting
 * [Offensive VBA](https://github.com/EASI-Sec/OffensiveVBA)
 * [Reflection in C#](https://github.com/EASI-Sec/Reflection_in_C-)
 
-#### Active DIrectory
+#### Active Directory
 * [Vulnerable AD](https://github.com/EASI-Sec/vulnerable-AD)
 
 ### Web Application
