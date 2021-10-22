@@ -28,7 +28,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/EASI-Sec/.github/main/profile/easi-logo.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/EASI-Sec/.github/main/profile/easi-logo.png" alt="Logo" width="381px" height="139px">
   </a>
 
   <h3 align="center">Easi Security Projects & Resources</h3>
@@ -129,8 +129,11 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- CONTACT -->
 ## Contact
 
-Mickey De Baets - MBAE - [@your_twitter](https://twitter.com/your_username) - m.debaets@easi.net
+Mickey De Baets - MBAE - [@MickeyDB](https://github.com/MickeyDB) - m.debaets@easi.net
+Thomas Hayen - THAY - [@sh4rksEasi](https://github.com/sh4rksEasi) - t.hayen@easi.net
 
+<!--
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+-->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
