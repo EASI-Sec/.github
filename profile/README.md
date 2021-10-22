@@ -10,8 +10,6 @@
   <p align="center">
     Knowledge base for Red and Blue projects and resources
     <br />
-    <a href="https://easi.net"><strong>To the website »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/EASI-Sec#internal-projects">Internal Projects</a>
     ·
