@@ -72,10 +72,10 @@ Links, repositories and tools regarding Red Teaming and pentesting
 
 
 <!-- Blue TEAM RESOURCES -->
+## Blue Team Resources
 
 Links, repositories and tools regarding DFIR and Blue Teaming
 
-## Blue Team Resources
 * [pwnSpoof](https://github.com/EASI-Sec/pwnspoof)
 
 <p align="right">(<a href="#">back to top</a>)</p>
