@@ -39,7 +39,7 @@
     <a href="https://easi.net"><strong>To the website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Internal Projects</a>
+    <a href="https://github.com/EASI-Sec/.github/blob/main/profile/README.md#internal-projects">Internal Projects</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Red Team Resources</a>
     ·
