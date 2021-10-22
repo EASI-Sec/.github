@@ -27,7 +27,7 @@
 <!-- INTERNAL PROJECTS -->
 ## Internal Projects
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+A list of internal security projects
 
 ### Red Team
 * [Red Team Recruiting](https://choosealicense.com)
@@ -44,7 +44,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- RED TEAM RESOURCES -->
 ## Red Team Resources
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Links, repositories and tools regarding Red Teaming and pentesting
 
 ### Infrastructure
 
@@ -72,6 +72,9 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- Blue TEAM RESOURCES -->
+
+Links, repositories and tools regarding DFIR and Blue Teaming
+
 ## Blue Team Resources
 * [pwnSpoof](https://github.com/EASI-Sec/pwnspoof)
 
