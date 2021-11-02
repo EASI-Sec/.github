@@ -29,6 +29,8 @@ A list of internal security projects
 
 ### Red Team
 * [Red Team Recruiting](https://github.com/EASI-Sec/SecuRED)
+* [Windows Active Directory Toolkit](https://sh4rks.gitbook.io/windows-ad-toolkit/)
+* [Easi Cheat Sheet Series](https://sh4rks.gitbook.io/cheatsheet-series/)
 * #### Hacking Demo
   * [Token Impersonation](https://github.com/EASI-Sec/Token-Impersonation)
   * [Evasion in C#](https://github.com/EASI-Sec/Evasion-in-Cs)
