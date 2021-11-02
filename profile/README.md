@@ -53,8 +53,12 @@ Links, repositories and tools regarding Red Teaming and pentesting
 
 #### Active Directory
 * [Vulnerable AD](https://github.com/EASI-Sec/vulnerable-AD)
+* [AD Toolkit](https://sh4rks.gitbook.io/windows-ad-toolkit/)
 
 ### Web Application
+
+#### Cheat Sheets
+* [Easi Cheat Sheet Series](https://sh4rks.gitbook.io/cheatsheet-series/)
 
 #### Wordlists
 * [SecLists](https://github.com/EASI-Sec/SecLists)
