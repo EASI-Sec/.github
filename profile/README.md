@@ -80,6 +80,7 @@ Links, repositories and tools regarding Red Teaming and pentesting
 
 Links, repositories and tools regarding DFIR and Blue Teaming
 
+* [Malware Analysis](https://github.com/EASI-Sec/PMAT-labs)
 * [pwnSpoof](https://github.com/EASI-Sec/pwnspoof)
 * [Winitor](https://www.winitor.com/)
 
