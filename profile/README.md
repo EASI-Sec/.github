@@ -32,6 +32,7 @@ A list of internal security projects
 * [Windows Active Directory Toolkit](https://sh4rks.gitbook.io/windows-ad-toolkit/)
 * [Easi Cheat Sheet Series](https://sh4rks.gitbook.io/cheatsheet-series/)
 * [Notekeeping Template](https://github.com/EASI-Sec/Pentests)
+* [HTB Meetups](https://github.com/EASI-Sec/HTB-Meetups)
 * #### Hacking Demo
   * [Token Impersonation](https://github.com/EASI-Sec/Token-Impersonation)
   * [Evasion in C#](https://github.com/EASI-Sec/Evasion-in-Cs)
