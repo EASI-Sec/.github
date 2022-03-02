@@ -84,6 +84,8 @@ Links, repositories and tools regarding DFIR and Blue Teaming
 
 * [Malware Analysis](https://github.com/EASI-Sec/PMAT-labs)
 * [pwnSpoof](https://github.com/EASI-Sec/pwnspoof)
+
+### Forensics
 * [Winitor](https://www.winitor.com/)
 
 ### Endpoint Visibility
