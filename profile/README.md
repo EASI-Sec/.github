@@ -86,6 +86,9 @@ Links, repositories and tools regarding DFIR and Blue Teaming
 * [pwnSpoof](https://github.com/EASI-Sec/pwnspoof)
 * [Winitor](https://www.winitor.com/)
 
+### Endpoint Visibility
+* [Velociraptor](https://github.com/Velocidex/velociraptor)
+
 <p align="right">(<a href="#">back to top</a>)</p>
 
 
