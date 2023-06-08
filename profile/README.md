@@ -27,6 +27,9 @@
 
 A list of internal security projects
 
+### Notekeeping
+* [Knowledge Base](https://github.com/EASI-Sec/SecuBrain)
+
 ### Red Team
 * [Red Team Recruiting](https://github.com/EASI-Sec/SecuRED)
 * [Windows Active Directory Toolkit](https://sh4rks.gitbook.io/windows-ad-toolkit/)
